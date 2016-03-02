@@ -1,0 +1,85 @@
+Contingent Valuation
+==================== 
+
+by Carson, R. T.; MItchell, R.; Hanemann, M.; Kopp, R. J.; Presser, S. and Paul 
+A. Ruud (2003), in Environmental and Resrouce Economics (25) 
+
+Week 04, March 3, 2016. Topic: Value of Statistical Life. 
+
+Introduction
+------------ 
+
+Because of the leak caused by rupture in the hull of the Exxon Valdez, 11 
+million gallons of oil was released into the Prince William Sound. Before the 
+case, the concept of nonuse value was not really known besides economist working 
+in the area of benefit cost analysis. [...] It is generally recognized that 
+stated preference methods are applicable to the estimation of passive use value, 
+which entails no direct involvement with natural resources. 
+
+Contingent valuation circumvents the absence of markets for natural resource 
+services by presenting consumers with a choice situation in which they have the 
+opportunity to buy or sell services in question. 
+
+Main points of the paper
+------------------------
+
+In order to asses the willingness to pay for the preventive measures of further
+oil spills in the Prince William Sound area, a carefully designed survey was
+developed and used in the whole U.S. The main objects of the survey was to:
+
+*	measure only the specified set of injuries;
+*	be consistent with economic theory (by elicitng an approximation of monetized
+	loss in utility suffered by the respondents as a result of the injuries 
+	casued by the spill);
+*	be comprehensive and comprehensible for everyine;
+*	be plausible with respect to the payment vehicle;
+*	be neutral;
+*	be conservative in the estimation of WTP.
+
+The main design issues that were tackled in the survey design are the following:
+
+*	Elicitation method: binary discrete question  is incentive
+	compatible [1]_, but in the survey, there is another question based on the
+	response to the last one.
+*	Choice of payment vehicle: instead of the higher price of a wider range of
+	goods and high oil prices (given the expected hectic oil price), higher taxes
+	are selected. Moreover, the tax increment is collected in one-sum.
+*	"Embedding": instead of the sequential valuation of more goods, only one
+	good will be considered (according to economic theory, because of the
+	substitution and income effects, the later in a WTP sequence a normal good
+	is valued, the lower the value is).
+	
+[...] skipping the further structure of the survey and the execution (probabilistic
+sampling was used).
+	
+Using the responses to the survey, the authors first established in which range
+the WTP is for a given respondent (both for one question and the two question
+version), then relying on survival analysis and on the Turnbull nonparametric
+and Weibull distribution approaches they produce the empirical distribution of
+the WTPs. This is important in order to establish the *mean* WTP of the sample
+(and thus an estimation of the mean population WTP), which is $53.6 for the
+former and $79.2 for the latter approach. Then, the authors estimate a valuation
+function of WTP based on the characteristics available on the respondents in
+order to make adjustments on the estimate of the *median* WTP and to perform
+sensibility tests. This estimate allows the authors to estimate mean
+WTPs for respondents conditional on their characteristics.
+
+These estimates eventually produces an aggregate lost passive value of $4.78
+billion in the conservative case (Turnbull approach) and $7.19 billion by the
+Weibull approach. These estimates are way higher than the one established by the
+original study, which is $2.8 billion. These figures reflect the public's WTP to
+prevent another oil spill. 
+
+Postscript
+----------
+
+AAAAAAAAAAAAAAAA
+
+Questions
+---------
+
+AAAAAAAAAAAAAAAA
+	
+	
+.. [1] That is a respondent can not do better than saying "yes" if the policy
+		is  actually preferred or saying "no" otherwise.

@@ -1,0 +1,29 @@
+.. Notes on the readings for ENV&RES_ECO. documentation master file, created by
+   sphinx-quickstart on Mon Feb 29 17:38:03 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Notes on the readings for ENV&RES_ECO.!
+==================================================================
+
+This site contains all that notes for the readings that are compulsory
+for the student presentations of Seminar Environmental and Resrouce
+Economics. These are personal notes, so do not take everything written
+here granted.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   viscusi
+   carson
+   ...
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
