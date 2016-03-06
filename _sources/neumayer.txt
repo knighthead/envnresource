@@ -1,0 +1,160 @@
+On the Methodology of ISEW, GPI and related measures
+====================================================
+
+*some constructive suggestions and some doubt on the 'threshold' hypothesis*
+
+by Eric Neumayer (2000), in Ecological Economics, (34) 347-361.
+
+
+Introduction
+------------ 
+
+Since the 1990s, the construction of an Index of Sustainable Economic Welfare 
+(ISEW) has become quite popular. The computation starts from personal 
+consumption expenditures weighted with an index of income inequality. Then 
+certain welfare relevant factors are added (e.g. household labour) and certain 
+welfare-relevant losses are subtracted (e.g. cost of environmental pollution, 
+costs of depletion of non-renewable resources and long-term environmental damage 
+costs). The index has been criticised by some authors, but in the paper Neumayer 
+aspires to put forward some constructive suggestions. He addresses three items: 
+
+- the valuation of the depletion of non-renewable resources
+- the valuation of long-term environmental damage 
+- the adjustment of consumption expenditures for income inequality 
+
+Proponents of the ISEW/GPI indices have put great emphasis on a clearly 
+discernible trend of the ISEW/GPI in almost all studies undertaken so far: 
+starting from around the 1970s or early 1980s depending on the country, the 
+ISEW/GPI no longer rises very much or even falls, whereas GNP continues to rise. 
+As an explanation for this widening gap between the two indicators, Max-Neef has 
+put forward the so-called 'threshold hypothesis': for every society there seems 
+to be a period in which economic growth (as conventionally measured) brings 
+about an improvement in the quality of life, but only up to a point - the 
+threshold point - beyond which, if there is more economic growth, quality of 
+life may begin to deteriorate. The paper argues that proponents of ISEW/GPI 
+consider their results too easily as evidence for the 'threshold hypothesis'. It 
+suggests that as far as depletion of non-renewable resources and long-term 
+environmental damage contribute to the widening gap between ISEW/GPI and GNP, 
+this gap might be the artefact of highly contestable methodolical assumptions. 
+
+
+Depletion of non-renewable resources
+------------------------------------
+
+There are 3 different aspects:
+
+- 	**replacement costs**
+
+	The rational for using this one: It stems from the idea that non-renewable 
+	resource use, which cannot be prolonged forever and is therefore, not 
+	sustainable into the indefinite future, would have to be replaced by
+	renewable resources.
+	
+	2 major problems:
+	
+	* 	the underlying assumption is that non-renewable resource use has to be
+		fully replaced by renewable resources in the present (if there are still
+		available resources today that are cheaper, why fully replace them?)
+	
+	* 	the escalation factor assumes that replacement costs increase over time
+		(reason behind: when the limits of a resource are being reached, the
+		cost of extracting the next unit is more costly than the previous unit’
+		and that ‘this principle presumably applies also to renewable fuels,
+		although to a lesser extent - BUT: the cost of solar technology is
+		expected to decrease, this falling costs should be more proper to be
+		assumed)
+	
+	If replacement costs are not assumed to escalate by 3% per annum, no 
+	widening gap between ISEW and GNP.
+	
+	Furthermore, methodologically correct would be the valuation of resource
+	consumption, not extraction, since the rational behind this method is to 
+	replace non-renewable resource use (the source of the resource is
+	irrelevant).
+
+- 	**resource rents**
+
+	The rationale for using this method: because non-renewable resources are
+	irreversibly lost in the process of use, non-renewable resource extraction
+	represents the (partial) liquidation of an existing capital stock. Rental
+	income that accrues from resrouces extraction is, therefore non-sustainable
+	into the future and should either fully (total resource rent) or partly
+	(resource user cost) be deduced.
+	
+- 	if total resource rent is used: **total resource rent vs resource user cost** 
+	(calculated with the El Serafy method) (the latter is onyl a fraction of
+	the former)
+	
+	El Serafy method: calculates the differences between two streams: (1) finite
+	stream from the non-renewable resource, (2) infinite but lower level of the
+	substitute renewable resource. Thus this method takes into account that by
+	investing the income from non-renewable resources an infinite income from
+	renewable can be sustained.
+	
+Long-term environmental damage
+------------------------------
+
+In the initial approach to ISEW/GPI, the annual nonrenwable energy resource
+consumption is valued at: $0.5 in 1972 dollars and this value is deduced from 
+the ISEW in this year but also in all following years. The rationale behind is:
+"the funds from a $0.5 tax on a barrel equivalent non-renewable resource could
+be set aside to accumulate in a non-interest-bearing account, which would be
+available to compensate future generations for the long-term damage caused by
+the use of fossil fuels and atomic energy".
+
+Accumulation in the UK ISEW study is theoretically incorrect: In valuing each 
+tonne of emissions with its marginal social cost, the total future damage of 
+this tonne of emissions is already valued. To let this value accumulate over 
+time is self-contradictory and therefore simply wrong as it leads to multiple 
+counting of the total future damage. 
+
+In the initial approach as well, accumulation leads to multiple counting,
+because money for the damage caused by each unit of emissions is set aside not
+only in the year of emission, but for each subsequent year as well.
+
+Not assuming accumulation of the environmental damage yields no discrepancy 
+between ISEW and GNP, but "One might think that even if long-term environmental 
+damage is not accumulated over time, a threshold effect might still arise if 
+marginal social costs per tonne of emitted carbon are assumed to increase over 
+time". But at least for the UK ISEW, the only study so far using rising marginal 
+social costs, the threshold effect fails to materialise. 
+
+Adjustment for inequality
+-------------------------
+
+The Atkinson index should be used since using this the researcher has to
+explicitly state his/her assumption on society's aversion to income inequality.
+The adjusting index generated by the Gini coefficients is very ad hoc and the
+researchers assumption is not explicitly explicated (base year chosen for the
+index).
+
+Furthermore, the ISEW/GPI can not be directly compared to GNP. If ISEW/GPI is 
+interpreted as an index, only the changes can are meaningful, the levels are 
+not. If it is interpreted as an absolute measure, then a clear statement is 
+needed on the base year. Related to this point, the ISEW:GPI needs to be 
+interpreted as a measure of welfare, not as sustainable or Hicksian income. 
+Amongst other things, this is because, due to the indexing, the resulting 
+ISEW:GPI cannot be interpreted as the income that society can safely consume and 
+be as well off at the end of the year as at the beginning. 
+
+Conclusions
+-----------
+
+(Main conclusion of the above mentioned +)
+
+It has been shown that if no escalation factor is applied to valuing the 
+depletion of non-renewable resources, and if long-term environmental damage is 
+not accumulated, then none of these items contributes any longer to a widening 
+gap between ISEW:GPI and GNP. One can therefore conclude from the analysis above 
+that variables related to the environment do not provide evidence for the 
+‘threshold hypothesis. This does not provide sufficient evidence against the 
+‘threshold hypothesis’ in general, as other factors covered by ISEW:GPI 
+might still create a widening, but smaller, gap between ISEW:GPI and GNP:GDP. 
+
+
+Questions
+---------
+
+AAAAAAAAAAAAAAA
+
+
