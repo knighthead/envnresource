@@ -19,6 +19,7 @@ Contents:
    viscusi
    carson
    neumayer
+   wackernagel
    ...
 
 Indices and tables

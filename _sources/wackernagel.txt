@@ -1,0 +1,314 @@
+Perpetual and structural barriers to investing in natural capital
+=================================================================
+
+*Economics from an ecological footprint perspective*
+
+by Mathis Wackernagel, William E. Rees (1997) in Ecological Economics (20) 3-24.
+
+
+Introduction: natural capital as appropriated carrying capacity
+--------------------------------------------------------------- 
+
+The paper argues that perceptual distortions and prevailing economic 
+rationality, far from encouraging investment in natural capital, actually 
+accelerate the depletion of natural capital stocks. THe paper builds on a more 
+ecologically complete definition that would include not only all the biophysical 
+resources and waste sinks needed to support the human economy, but also the 
+relationship among those entities and processes that provide life support to the 
+ecosphere (e.g. the fish stock is the natural capital, the sustainable harvest 
+is natural income). Natural capital is the totality of renewable and 
+non-renewable natural capital, and this paper uses a biophysical approach to 
+aggregate its various forms. Thus natural capital is not just an inventory of 
+resources; it includes all those components of the ecospehere and the structural 
+relationships among them, whose organizational integrity is essential for the 
+continuous self-production of the system itself. 
+
+The constant capital stocks criterion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The authors subscribe to the precautionary principle that each generation should 
+inherit a stock of essential biophysical asset alone no less that the stock of 
+such assets inherited by the previous generation. [1]_ This interpretation 
+emphasizes ecological necessity, particularly the life-support functions of 
+self-producing biophysical capital. EMphasis is on the pragmatic minimal 
+biophysical requirements for humane survival. On the other hand, the 
+preservation of biophysical assets essential to humankind does imply the direct 
+protection of whole ecosystems and thousands of keystone species, and thousands 
+more will benefit indirectly from the maintenance of the same systems upon which 
+humans are dependent. 
+
+The next steps are to determine how to best measure constancy of natural 
+capital, or in other words, how the various forms of natural capital can be 
+aggregated. Using money values as measure of natural capital constancy is 
+misleading from an ecological perspective precisely because a constant (or 
+increasing) dollar value of a resource stock can result from the physical 
+depletion of the stock (and its functions). MOnetary measure can foster the 
+illusion of constant stocks while physical inventories actually shrink. More 
+fundamentally, prices can say nothing all about non-market, but ecologically 
+essential, stocks and processes (e.g. the ozone layer and photosynthetic CO2 
+uptake), nor about those ecosystem functions whose value to humankind is not 
+revealed until they are in jeopardy or disappear. 
+
+
+To summarize, an economy depends on natural capital to provide all the resource 
+flows and waste sinks necessary to sustain a given material standard of living, 
+while simultaneously maintaining the functional integrity and productivity of 
+the stocks themselves.
+
+The ecological footprint and appropriated carrying capacity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The first approximation, the ecological footprint can be represented as the 
+aggregate area of land and water in various ecological categories that is 
+claimed by participants in that economy to produce all the resources they 
+consume, and to absorb all their wastes they generate on a continuous basis, 
+using prevailing technology. Evidently, the area of the footprint depends on the 
+population size, material living standards, technology and ecological 
+productivity. 
+
+It is useful to think of the essential self-producing natural capital 
+represented by an economy's ecological footprint as 'Hicksian natural capital.' 
+Hicksian income is the level of consumption that can be sustained from one 
+period to the next without reducing wealth. In the present context this 
+corresponds to 'natural income.' For a given economy, the Hicksian natural 
+capital would therefore be the aggregate natural capital stocks necessary to 
+sustain this economy's ecological flows (natural income) and consumption 
+patterns indefinitely. 
+
+Estimates of the ecological footprint and appropriated carrying capacity provide 
+clear direction for action. THey indicate whether current or projected 
+consumption levels can be sustained by available ecological productivity. the 
+ecological footprint becomes a useful yardstick for sustainability. As the 
+ecological footprint of humanity needs to be smaller than the available carrying 
+capacity, it becomes an absolute benchmark. It also points out how the 
+ecological footprint can be reduced: through lower population, lower 
+consumption, more efficient technologies (as long as gains are not re-spent), 
+higher ecological productivity, or a combination of these four parameters. 
+
+Rough calculations suggest that the ecological footprint of all industrialized nations, representing less than 20% of the world population, is larger than the available ecologically productive land on Earth. The data indicate that it is simply not possible, ecologically or thermodynamically, for everybody in the world to consume at current industrial levels without risking irreversible resource depletion and ecospheric collapse.
+
+A taxonomy of barriers to investing in natural capital
+------------------------------------------------------
+
+Given the unquestioned monetary value of many ecological goods and the fact that 
+certain ecological services are essential for life, why does humankind not even 
+maintain, let alone invest, in natural capital stocks? 
+
+Four main classes of reasons are identified:
+
+-	Ignorance, fundamental beliefs and denial:
+
+	Decision-makers understand neither the nature of the problem nor the crucial
+	role of natural capital stocks. Others who do understnad are in denial, or 
+	are unwilling or incapable of taking necessary action.
+	
+-	Economic abstraction, deviant operating models and knowledge:
+
+	Socioeconomic abstractions are barriers to investment in natural capital
+	because they bear little relation to ecological reality.
+
+-	The social micry of individual rationality:
+
+	A global economic regime is being vreated in which what has become accepted as `rational` economic behavior by individuals is ever more being emulated
+	at higher organizational scales at the expense of public goods and communal
+	values.
+
+-	Physical and structural manifestations of modern society:
+
+	The pysical separation between consumption and production, further reliance
+	on electronic media rather than direct experience, the fast-paced
+	integration of the global economy, energy intensive settlements
+	infrastructure and the loss of local political autonomy reduce corrective 
+	feedback for the maintenance of natural capital and amplify the dilemma
+	between economic expansion and ecological integrity.
+
+The reality today is that much deterioration of the global 'commons' can be 
+attributed to the unforeseen consequences of deliberate policies that extend 
+self-interested individualistic behaviour and rights to government and 
+inter-overnment agencies, transnational corporations, and various other 
+multinational organizations operating in the global arena. Examples include 
+international agreements for the division and exploitation of the sea-bed and 
+similar 'undeveloped' common-pool resources. 
+
+Current global development models implicitly assume an infinite world. 
+Unfortunately, the real world is finite and the invisible hand of the market has 
+nothing to say about the appropriate scale fo an entropic economy operating 
+under such a constraint. 
+
+To argue that globalism and self-interested individual behavior is a dominant 
+factor in the depletion of natural capital is to underscore a particularly 
+pernicious form of market failure. In a finite, materially-closed system like 
+the ecosphere, the competitive forces guiding the invisible hand become 
+positively destructive. Not all individuals, corporations, and nations can 
+simultaneously maximize their individual use of global sources and sinks without 
+over-exploiting or destroying the common-pool life-support functions that are 
+essential to their mutual survival. It is conceivable that some market failures
+actually reduce natural capital depletion by compromising an economy's aggregate
+purchasing power and reducing material consumption.
+
+Exploring four issues in more detail
+------------------------------------
+
+Marginal pricing and economic valuation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The beauty - as well as the danger - of market prices is that they seem to maker 
+resoruces commensurate, enabling us to trade apples for oranges. It reveals only 
+what people are willing to pay today for the next unit of that commodity. This 
+price is influenced by many things including total income, available 
+alternatives (opportunity costs) and current fashion. Accordingly, market 
+pricing can often equate the terminally frivolous to the absolutely essential. 
+
+If we value bioproductivity only by its dollar price at the margin, we are 
+completely misled about the magnitude of nature's contribution to human welfare. 
+However, these figures reflect neither the necessity for agriculture nor its 
+true relative worth compared to the information sector. 
+
+In short, marginal prices for the products of natural capital convey a sense 
+that nature's total value is finite, when, in fact, ecological necessity 
+dictates that the total social utility of many forms of natural capital is 
+infinite: without water, no life; without air, no life; without photosynthesis, 
+no life, etc. 
+
+Interregional risk pooling
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Generally, economist argue that risk-pooling is beneficial to individuals and, 
+therefore, also for society. If individuals are too risk-averse, they miss 
+opportunities, misallocate resources, or under-consume. However, pooling risks 
+can have ecological draw-backs. 
+
+For example, coastal communities whose survival is dependent on traditional 
+fisheries generally evolve harvest strategies that conserve fish stocks. Only 
+when they acquire the option of pooling risks with the outside through accessing 
+other regions' carrying capacity and moving their capital elsewhere do they 
+adopt more aggressive fishing strategies that could lead to resource exhaustion. 
+Having access to others' resources effectively reduces the perceived present 
+value of local natural capital. Because extinction of the local stock no longer 
+immediately endangers survival or the local economy, it may even make economic 
+sense to exploit that stock unsustainably and to invest the returns in a more 
+profitable venture elsewhere. 
+
+Trade and limiting factors
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is apparent that natural capital is once again more likely to impose limits
+on the scale of economy than are labour shortages. This makes the ecological
+'Law of Minimum' and the concept of appropriated carrying capacity essential to
+any interpretation of the sustainability implications of international trade.
+The 'Law of Minimum', that systems and processes are governed by that single
+necessary factor in the last supply, led to the use of more specific fertilizers
+in agriculture. Howeverm there are ecological drawbacks. In nature, limiting
+factors serve inadvertently to regulate production systems. THe shortage of
+only one essential requirement prevents plant growth from exhausting the entire
+resource base. The effect of chemical fertilization, therefore, is to accelerate
+the depletion of successive components of the soil, a potentially renwable
+form of natural capital, while creating dependencies on non-renewable,
+manufactured capital.
+
+Unfortunately, unregualted trade acts like excessive fertilizer: it can
+short-circuit ecological fuses which historically kept economic throughput in
+balance with local bioproductivity. Most economists explicitly support
+unrestricted trade precisely because it enables local economies to overcome
+any material barriers to growth. The growth of economies most likely entails
+higher populations, greater resources throughputs, accelerated stock depletion,
+and intensified pollution. The questions is, at what point do their people
+cease being better off than before? Each economy is still contained by a second
+limiting factor, and in addition is now dependent on an essential resource
+supplied by another economy. TO this extent the gains are only transitional:
+a short period of economic growth during which distributional conflicts are
+eased.
+
+Global economic integration have ecological consequences: (1) material growth 
+anywhere nefverssarily increases the throughput of energy and matrial
+resources, including those which have not historically been limiting; (2) it
+exposes all local resoruce stocks to the largest possible market; (3) trade acts
+as a special case of risk-pooling.
+
+The net effect is becoming self-evident in the modern world. Surplus' natural 
+capital stocks everywhere are drawn down and global sinks are filled to 
+over-flowing. Our global safety net is being shredded as the 'Tragedy of the
+Commons' is played out on a global scale. 
+
+Efficiency
+~~~~~~~~~~
+
+Many economists and environmentalists believe that advances in technological
+efficieny is a potential panacea for the global crisis. As effective as
+theses trategies might seem on the micro sale, however, increasing the ratio
+between output and input does not necessarily lead to lower resource use. On the
+contrary, technological efficiency may actually lead to increased net
+consumption of resources. Lester Brown et al. (1991, 81) states that "continuing
+growth in material consumption will eventually overwhelm gains from efficiency,
+causing total resource use to rice".
+
+-	On the micro-level:
+
+	imroved energy or material efficiency may enable firms to raise wages,
+	increase dividens, or lower prices, all of which may lead to higher net
+	consumption. Similarly, technology-induced savings by individuals are
+	usually redrected to other forms of consumption, canceling some of the
+	initial	gain.
+	
+-	On the meso (or regional) level:
+	
+	The money for both the energy-saving equipment as well as the amounts
+	saved through improved energy efficiency will more likely be spent locally,
+	thus stimulating the local economy.
+	
+-	On the macro-level:
+
+	Empirical "results imply that the link between economic activity and energy
+	use is stronger than believed by most neoclassical economists."
+	
+	*	technical innovation:
+		
+		"energy efficiency gains can increase energy consumption by two means:
+		(1) by making energy appear effectively cheaper than other inputs; (2)
+		by increasing economic growth, which pull up energy use."
+		
+	*	technical efficiency:
+	
+		Profitable efficiency gains contribute to upward-trending expectations
+		of returns to capital, accelerated growth, and increased demand for
+		resources. Overall, innovation stimulated by competition generally
+		accelerates global economic performance and with it, entropic throughput.
+		
+	Efficiency gains far from conserving natural capital or decreasing
+	footprints leads to higher consumption.
+	
+Implications for investing in natural capital
+---------------------------------------------
+
+Only with economic theories that are grounded in an understanding of biophysical 
+flows, and of stocks necessary to secure these flows, will we be able to accept 
+the economic necessity to invest in natural capital, and by that maintain its 
+capacity. The question then becomes how we will be able to provide these basic
+securities for human survival. We face a difficult choice:
+
+-	Either we continue on our current path:
+	
+	which is bad: prevailing econmic logic and development strategies discourage
+	investment in natural capital (they reinfroce the primacy of human-made
+	capital over natural capital because the former 'reproduces' faster than the
+	latter). Investment has become the opposite of conservation and ultimately
+	threatens human welfare. People everywhere are faced with a complex
+	paradox: the dominant strategy promises to enhance human welfare, but
+	increasingly seems responsible for eroding it.
+
+-	Or we recognize the need to change direction:
+
+	Realizing that: [...]
+
+
+
+Questions
+---------
+
+AAAAAAAAAAAAAAAAAA
+	
+
+
+.. [1]	Adequate natural capital stocks are needed to maintain sufficient
+		ecological flows for the human economy. And, growing populations would
+		need to translate in reducing economic inputs per capita.
