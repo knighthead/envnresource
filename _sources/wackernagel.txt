@@ -95,25 +95,21 @@ maintain, let alone invest, in natural capital stocks?
 
 Four main classes of reasons are identified:
 
--	Ignorance, fundamental beliefs and denial:
-
+*Ignorance, fundamental beliefs and denial*:
 	Decision-makers understand neither the nature of the problem nor the crucial
 	role of natural capital stocks. Others who do understnad are in denial, or 
 	are unwilling or incapable of taking necessary action.
 	
--	Economic abstraction, deviant operating models and knowledge:
-
+*Economic abstraction, deviant operating models and knowledge*:
 	Socio-economic abstractions are barriers to investment in natural capital
 	because they bear little relation to ecological reality.
 
--	The social micry of individual rationality:
-
-	A global economic regime is being vreated in which what has become accepted as `rational` economic behavior by individuals is ever more being emulated
+*The social mimicry of individual rationality*:
+	A global economic regime is being created in which what has become accepted as `rational` economic behaviour by individuals is ever more being emulated
 	at higher organizational scales at the expense of public goods and communal
 	values.
 
--	Physical and structural manifestations of modern society:
-
+*Physical and structural manifestations of modern society*:
 	The pysical separation between consumption and production, further reliance
 	on electronic media rather than direct experience, the fast-paced
 	integration of the global economy, energy intensive settlements
@@ -141,7 +137,7 @@ the ecosphere, the competitive forces guiding the invisible hand become
 positively destructive. Not all individuals, corporations, and nations can 
 simultaneously maximize their individual use of global sources and sinks without 
 over-exploiting or destroying the common-pool life-support functions that are 
-essential to their mutual survival. It is conceivable that some market failures
+fessential to their mutual survival. It is conceivable that some market failures
 actually reduce natural capital depletion by compromising an economy's aggregate
 purchasing power and reducing material consumption.
 
