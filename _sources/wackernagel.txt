@@ -192,9 +192,9 @@ on the scale of economy than are labour shortages. This makes the ecological
 'Law of Minimum' and the concept of appropriated carrying capacity essential to
 any interpretation of the sustainability implications of international trade.
 The 'Law of Minimum', that systems and processes are governed by that single
-necessary factor in the last supply, led to the use of more specific fertilizers
+necessary factor in the least supply, led to the use of more specific fertilizers
 in agriculture. Howeverm there are ecological drawbacks. In nature, limiting
-factors serve inadvertently to regulate production systems. THe shortage of
+factors serve inadvertently to regulate production systems. The shortage of
 only one essential requirement prevents plant growth from exhausting the entire
 resource base. The effect of chemical fertilization, therefore, is to accelerate
 the depletion of successive components of the soil, a potentially renwable
@@ -215,9 +215,9 @@ a short period of economic growth during which distributional conflicts are
 eased.
 
 Global economic integration have ecological consequences: (1) material growth 
-anywhere nefverssarily increases the throughput of energy and matrial
+anywhere necessarily increases the throughput of energy and material
 resources, including those which have not historically been limiting; (2) it
-exposes all local resoruce stocks to the largest possible market; (3) trade acts
+exposes all local resource stocks to the largest possible market; (3) trade acts
 as a special case of risk-pooling.
 
 The net effect is becoming self-evident in the modern world. Surplus' natural 
@@ -283,8 +283,8 @@ securities for human survival. We face a difficult choice:
 
 -	Either we continue on our current path:
 	
-	which is bad: prevailing econmic logic and development strategies discourage
-	investment in natural capital (they reinfroce the primacy of human-made
+	which is bad: prevailing economic logic and development strategies discourage
+	investment in natural capital (they reinforce the primacy of human-made
 	capital over natural capital because the former 'reproduces' faster than the
 	latter). Investment has become the opposite of conservation and ultimately
 	threatens human welfare. People everywhere are faced with a complex
@@ -300,9 +300,26 @@ securities for human survival. We face a difficult choice:
 Questions
 ---------
 
-AAAAAAAAAAAAAAAAAA
+-	The presentation of the ecological footprint approach suggest that in order
+	to be on a sustainable path, thus holding to the selected constant capital
+	stocks criterion and to the Hicksian income, does it suggest that
+	essential non-renewable resources should not be extracted?
 	
-
+	Furthermore, does this suggest that countries should only trade in renewable
+	natural capital within their appropriated carrying capacity?
+	
+-	The argument of the authors suggest that energy efficiency improvements in 
+	technology should not be pursued since given the rebound effect, it
+	ultimately generates intensified consumption and thus natural capital
+	exploitation. They assume that preferences do not change thus the
+	substitution and income effects results in higher production, while later
+	in the end of the paper, where they suggest the introduction of a
+	guaranteed minimum income, they assume that there will be no income effect.
+	What is more, here they assume that people will not pursue higher income and
+	more consumption because of that.
+	
+	Does this mean that energy efficiency can not improve the sustainability of the economy? Can changing consumer preferences be another criterion to
+	promote sustainability? 
 
 .. [1]	Adequate natural capital stocks are needed to maintain sufficient
 		ecological flows for the human economy. And, growing populations would
